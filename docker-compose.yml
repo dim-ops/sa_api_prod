@@ -15,3 +15,9 @@ services:
       - "8080:8080"
     depends_on:
       - mongo
+  front:
+    image: frontsa
+    ports:
+      - "3000:3000"
+    depends_on:
+      - app

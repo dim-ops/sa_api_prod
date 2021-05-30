@@ -14,7 +14,7 @@ type Data struct {
 	SFEI_2018    float32     `json:"SFEI_2018,omitempty" bson:"SFEI_2018,omitempty"`
 	SFEI_2019    float32     `json:"SFEI_2019,omitempty" bson:"SFEI_2019,omitempty"`
 	SFEI_2020    float32     `json:"SFEI_2020,omitempty" bson:"SFEI_2020,omitempty"`
-	SFIP_2017    float32     `json:"SFIP_2017 ,omitempty" bson:"SFIP_2017,omitempty"`
+	SFIP_2017    float32     `json:"SFIP_2017,omitempty" bson:"SFIP_2017,omitempty"`
 	SFIP_2018    float32     `json:"SFIP_2018,omitempty" bson:"SFIP_2018,omitempty"`
 	SFIP_2019    float32     `json:"SFIP_2019,omitempty" bson:"SFIP_2019,omitempty"`
 	SFIP_2020    float32     `json:"SFIP_2020,omitempty" bson:"SFIP_2020,omitempty"`
